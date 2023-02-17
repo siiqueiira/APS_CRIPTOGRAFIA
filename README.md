@@ -1,2 +1,3 @@
 # APS_CRIPTOGRAFIA
-Programa em Python desenvolvido para o APS da faculdade
+Projeto desenvolvido em Python para o APS da faculdade
+Criptografia de Políbio
